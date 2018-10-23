@@ -8,6 +8,7 @@ String naranja= "\033[33m";
 String azul = "\033[34m";
 String morado = "\033[35m";
 String blanco = "\033[37m";
+//Holi
 
 			System.out.print(naranja + "mandarina" + verde + " hierba");
 			System.out.print(naranja + " saltamontes" + rojo + " tomate");
